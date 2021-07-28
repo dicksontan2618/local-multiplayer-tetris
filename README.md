@@ -2,6 +2,8 @@
 
 A simple Tetris Game which supports local machine multiplayer mode.
 
+![](https://github.com/dicksontan2618/local-multiplayer-tetris/blob/main/exp.png)
+
 ## Installation and Running
 
 Download/Copy the codes and run `game.py` in your local machine command line.
